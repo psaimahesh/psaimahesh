@@ -10,12 +10,27 @@ I am a Senior Software Engineer with 4 years of experience building large-scale 
 * 🤖 **AI & ML Focus:** Holding a Micro-Specialization in AI from IIT Kharagpur. Experienced with modern LLM stacks (LangChain, Hugging Face, Transformers) and published research in the ACL Anthology for NLP (SemEval-2021).
 * ☁️ **Certifications:** Microsoft Certified: Azure Developer Associate (AZ-204) & Azure Fundamentals (AZ-900).
 
-### 🛠️ Tech Stack
-* **Languages:** Java, Python, C++, JavaScript, SQL
-* **Backend & APIs:** Spring Boot, REST APIs, Flask, Django
-* **Databases & Messaging:** Kafka, RabbitMQ, PostgreSQL, MongoDB, Cassandra, Redis, Elasticsearch, Neo4j
-* **Cloud & DevOps:** AWS, Azure, Kubernetes, Docker, Jenkins, GitHub Actions, Harness
-* **AI/ML:** LangChain, Hugging Face, Transformers, RASA
+## 🛠️ Tech Stack
+
+**Languages & Core**
+
+[![Languages](https://skillicons.dev/icons?i=java,py,cpp,js,postgres)](https://skillicons.dev)
+
+**Frameworks & APIs**
+
+[![Frameworks](https://skillicons.dev/icons?i=spring,flask,django,react)](https://skillicons.dev)
+
+**Databases & Streaming**
+
+[![Databases](https://skillicons.dev/icons?i=kafka,postgres,mongodb,redis)](https://skillicons.dev)
+
+**Cloud & DevOps**
+
+[![Cloud and DevOps](https://skillicons.dev/icons?i=aws,azure,k8s,docker,jenkins,githubactions)](https://skillicons.dev)
+
+### 📝 Publications
+* **[Insert Paper Title Here](Link to ACL Anthology URL)** — *ACL Anthology (SemEval-2021)*
+  Published research in Natural Language Processing (NLP), focusing on Lexical Complexity Prediction.
 
 ### 🏆 Key Career Highlights
 * **High-Volume Systems:** Engineered scalable Change Data Capture (CDC) systems using Kafka to sync millions of records and automated complex Teradata to MongoDB data migrations.
